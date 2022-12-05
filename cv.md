@@ -35,3 +35,19 @@ describe("Multiply", () => {
     assert.strictEqual(multiply(3,5), 15);   
   });
 ```
+## Experience:
+[CV(My first work experience)](https://github.com/ALDedovets/rsschool-cv/tree/gh-pages)
+
+## Education:
++ Minsk State Energy College, specialty Electric stations.
++ Belarusian National Technical University, Faculty of energy.
++ Courses:
+     - [RS Schools Course «JavaScript/Front-end. Stage 0 (in progress...)](https://www.youtube.com/@RollingScopesSchool)
+     - [JavaScript Manual (in progress...)](https://learn.javascript.ru/)
+     - [HTML and CSS (in progress...)](https://html5css.ru/)
+
+## Languages:
++ English A1 (I am currently studying English with a tutor).
++ Belarusian - native speaker.
++ Russian - native speaker.
++ French - A1.
